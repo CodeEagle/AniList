@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Here come's the [AniList API](https://anilist-api.readthedocs.io/en/latest/index.html)
+
 ## Installation
 
 AniList is available through [CocoaPods](http://cocoapods.org). To install
