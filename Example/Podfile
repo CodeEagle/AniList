@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'AniList_Example' do
+  pod 'AniList', :path => '../'
+  pod 'SSCacheControl', :path => '../SSCacheControl'
+
+  target 'AniList_ExampleTests' do
+    inherit! :search_paths
+
+
+  end
+end

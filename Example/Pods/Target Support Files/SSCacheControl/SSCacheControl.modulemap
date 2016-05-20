@@ -1,0 +1,6 @@
+framework module SSCacheControl {
+  umbrella header "SSCacheControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
